@@ -8,7 +8,6 @@ export default function Statistics({
   total,
   positivePercentage,
 }) {
-  //   console.log(persents);
   return (
     <div className={s.container}>
       <ul className={s.list}>
